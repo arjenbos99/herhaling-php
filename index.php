@@ -1,4 +1,6 @@
 <?php
+
+// dd
 /* $getal = 11;
 
 echo var_dump(is_int($getal));
